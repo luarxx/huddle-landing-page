@@ -12,7 +12,7 @@ export function Content() {
         so does your audience. Create connections with your users as you engage
         in genuine discussion.
       </p>
-      <button className="mt-10 bg-white text-Violet shadow drop-shadow shadow-black px-20 py-3 rounded-full">
+      <button className="mt-10 hover:bg-Soft-Magenta hover:text-white bg-white text-Violet shadow drop-shadow shadow-black px-20 py-3 rounded-full">
         Register
       </button>
       <Footer />
