@@ -3,7 +3,12 @@
 @tailwind utilities;
 
 @layer utilities {
-    .bg-mobile {
-        background-image: url('../public/imgs/bg_mobile.svg');
-    }
+  /* Criação de uma classe de tailwind */
+  .bg-mobile {
+    background-image: url("../public/imgs/bg_mobile.svg");
+  }
+
+  .bg-desktop {
+    background-image: url("../public/imgs/bg-desktop.svg");
+  }
 }
